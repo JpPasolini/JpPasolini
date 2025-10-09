@@ -17,11 +17,11 @@ I'm a 20-year-old Computer Science student at **Atitus University**, currently f
 
 ## 👨🏻‍💻 About Me
 
-- 💡 I’m passionate about exploring new technologies and building creative, practical solutions.
-- 🎓 I’m currently pursuing a degree in **Computer Science** at Atitus University.
-- 🌱 I’m learning more about **software development**, **algorithms**, and **problem solving**.
-- ⚙️ I enjoy working on real-world projects and improving my clean code practices.
-- ✉️ You can reach me anytime at **pasolinijp@gmail.com**.
+- 💡 I’m passionate about exploring new technologies and building creative, practical solutions.  
+- 🎓 I’m currently pursuing a degree in **Computer Science** at Atitus University.  
+- 🌱 I’m learning more about **software development**, **algorithms**, and **problem solving**.  
+- ⚙️ I enjoy working on real-world projects and improving my clean code practices.  
+- ✉️ You can reach me anytime at **pasolinijp@gmail.com**.  
 
 ---
 
@@ -30,13 +30,13 @@ I'm a 20-year-old Computer Science student at **Atitus University**, currently f
 - **LinkedIn:** [João Paulo Pasolini](https://www.linkedin.com/in/jo%C3%A3o-paulo-pasolini-bbb96836b/)
 - **Email:** pasolinijp@gmail.com
 - **Instagram:** [@joaoppasolini](https://www.instagram.com/joaoppasolini/)
-- **GitHub:** [joaoppasolini](https://github.com/joaoppasolini)
+- **GitHub:** [JpPasolini](https://github.com/JpPasolini)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoppasolini&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpPasolini&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
 
 ---
 
@@ -52,7 +52,7 @@ I'm a 20-year-old Computer Science student at **Atitus University**, currently f
 
 ## 🎯 Goals
 
-- Keep improving in **software engineering and algorithms**
+- Keep improving in **software engineering and algorithms**  
 - Develop projects that mix creativity and technology  
 - Gain professional experience and contribute to open-source initiatives  
 
@@ -62,6 +62,6 @@ I'm a 20-year-old Computer Science student at **Atitus University**, currently f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-pasolini-bbb96836b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoppasolini/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoppasolini)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JpPasolini)
 
 ---
