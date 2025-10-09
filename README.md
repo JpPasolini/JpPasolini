@@ -1,41 +1,67 @@
-### Hi there 👋 I'm João Paulo Pasolini!
+# Hi there 👋 I'm João Paulo Pasolini!
 
-I'm a passionate and goal-driven Computer Science student currently in my second semester. I am dedicated to building a strong foundation in programming, algorithms, and software development to create impactful solutions. I'm always eager to learn and ready to take on new challenges.
+I'm a 20-year-old Computer Science student at **Atitus University**, currently focused on improving my programming and software development skills. I’m passionate about creating impactful projects, learning new technologies, and taking on challenges that make me grow. 🚀
 
 ---
 
-### My skills and tools:
+## 🛠 Skills & Tools
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### Connect with me:
+## 👨🏻‍💻 About Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/jo%C3%A3o-paulo-pasolini-bbb96836b/]
-* **Email:** [pasolinijp@gmail.com]
-* **Instagram:** [https://www.instagram.com/joaoppasolini/]
+- 💡 I’m passionate about exploring new technologies and building creative, practical solutions.
+- 🎓 I’m currently pursuing a degree in **Computer Science** at Atitus University.
+- 🌱 I’m learning more about **software development**, **algorithms**, and **problem solving**.
+- ⚙️ I enjoy working on real-world projects and improving my clean code practices.
+- ✉️ You can reach me anytime at **pasolinijp@gmail.com**.
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [João Paulo Pasolini](https://www.linkedin.com/in/jo%C3%A3o-paulo-pasolini-bbb96836b/)
+- **Email:** pasolinijp@gmail.com
+- **Instagram:** [@joaoppasolini](https://www.instagram.com/joaoppasolini/)
+- **GitHub:** [joaoppasolini](https://github.com/joaoppasolini)
 
 ---
 
-### My GitHub Stats
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bymariia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoppasolini&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)
 
 ---
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-</div>
 
+## 🧰 Detailed Tech Stack
+
+- **Java** – Object-oriented programming and backend development  
+- **Python** – Automation, data processing, and small apps  
+- **HTML / CSS** – Frontend structure and styling  
+- **Git & GitHub** – Version control and teamwork  
+- **VS Code** – Main development environment  
+
+---
+
+## 🎯 Goals
+
+- Keep improving in **software engineering and algorithms**
+- Develop projects that mix creativity and technology  
+- Gain professional experience and contribute to open-source initiatives  
+
+---
+
+## 🔗 Quick Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-pasolini-bbb96836b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoppasolini/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoppasolini)
+
+---
